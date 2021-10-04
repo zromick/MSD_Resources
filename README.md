@@ -21,13 +21,13 @@ Below is a list of servers created and managed by moderators/moderation advisors
 
 ## **Tips**
 * Airplane mode / turn off wifi to avoid ads
-* For Android, use [NetGuard](https://play.google.com/store/apps/details?id=eu.faircode.netguard&hl=en) to block ads on any app
+* For Android, use [NetGuard](https://play.google.com/store/apps/details?id=eu.faircode.netguard&hl=en_US&gl=US) to block ads on any app
 * Make sure you have enough storage before attempting a long run
-* [Glossary of speedrun terms](http://www.speedrunslive.com/faq/glossary)
+* [Glossary of speedrun terms](https://www.speedrunslive.com/rules-faq/glossary)
 * For retiming runs, we recommend [yt-frame-timer](https://slashinfty.github.io/yt-frame-timer/)
 
 *Android screen recorders:*
-* [Game Screen Recorder](http://play.google.com/store/apps/details?-id=com.drivergenius.screenrecorder) by DGenius Mobile
+* [Game Screen Recorder](https://play.google.com/store/apps/details?id=com.drivergenius.screenrecorder&hl=en_US&gl=US) by DGenius Mobile
 * [Mobizen Screen Recorder - Record, Capture, Edit](http://play.google.com/store/apps/details?id=com.rsupport.mvagent) By Mobizen
 
 ## **Game Specific Discord Links**
