@@ -5,7 +5,7 @@
 Below is a list of servers created and managed by moderators/moderation advisors of the MSD that are related to speedrunning and/or community-building.
 
 * [Code Runners](https://discord.gg/J2KaVzs) - Speedrunners coding tools for speedrunners
-* [Dank](https://discord.gg/X5eu5SKRjj) - Legacy server for sharing memes
+* [Dank](https://discord.gg/b6EYTQ5P6M) - Legacy server for sharing memes
 * [Google Speedrunning](https://discord.gg/7MXyJHs) - Focused on speedrunning games by Google
 * [Mobile Highscores (MHD)](https://discord.gg/hMr3kHAEka) - Legacy server focused on achieving high scores in mobile games
 * [Mobile Speedrunning Event (MSED)](https://discord.gg/3JGNH6B) - Legacy server focused on arranging logistics for MSD or WSD events
